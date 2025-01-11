@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "create-next-app": "^15.1.4"
+  },
+  "devDependencies": {
+    "@react-three/drei": "^9.120.7",
+    "@react-three/fiber": "^8.17.12",
+    "framer-motion": "^10.18.0",
+    "react-intersection-observer": "^9.14.1",
+    "three": "^0.172.0"
+  }
+}
